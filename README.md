@@ -1,6 +1,5 @@
 ### Hi! 👋{^-^}🤙
 
-Hi everyone! 👋
 My name is Maxi, and I´m a Frontend Developer.
 
 Here's an overview of the technologies I'm currently diving into:
